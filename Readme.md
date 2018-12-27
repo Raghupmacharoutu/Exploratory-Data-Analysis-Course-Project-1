@@ -2,6 +2,9 @@ The repository mainly meant for Exploratory data analysis peer review project As
 
 
 The following descriptions of the 9 variables in the dataset are taken from the UCI web site:
+
+These are instructions given in the course sight.
+
 Date: Date in format dd/mm/yyyy
 Time: time in format hh:mm:ss
 Global_active_power: household global minute-averaged active power (in kilowatt)
